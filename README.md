@@ -1,26 +1,25 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Mostafa <sub>(Senkop)</sub></h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=210&section=header&text=Mostafa%20Khaled&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20Flutter%20%26%20Node.js&descAlignY=60&descSize=20" alt="Mostafa Khaled" width="100%" />
+<h3 align="center">Full-stack developer · Flutter &amp; Node.js</h3>
 
-<a href="https://github.com/senkop">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=0E75B6&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B%2C+I'm+Mostafa+(Senkop);I+build+mobile+%26+web+apps+end+to+end;Flutter+on+the+front.+Node.js+on+the+back.;GPS+tracking+%C2%B7+Dispatch+%C2%B7+Reporting" alt="Typing intro" />
-</a>
+<p align="center">
+  I build mobile and web apps end to end.<br/>
+  Flutter on the front. Node.js on the back.
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://senkop.github.io"><img src="https://img.shields.io/badge/Portfolio-senkop.github.io-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mostafa-khaled-9636791a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/senkop/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.facebook.com/mostafakhaledx"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/mostafakhaledxm"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-<a href="https://senkop.github.io"><img src="https://img.shields.io/badge/Portfolio-senkop.github.io-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/mostafa-khaled-9636791a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/senkop/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="https://www.facebook.com/mostafakhaledx"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://www.instagram.com/mostafakhaledxm"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=senkop&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=senkop&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
-</div>
-
-<br/>
+---
 
 <h2 align="center">🚀 What I'm up to</h2>
 
@@ -31,8 +30,6 @@
     <td align="center" width="260"><h3>🌱<br/>Always</h3>Improving architecture, performance and developer experience</td>
   </tr>
 </table>
-
-<br/>
 
 <h2 align="center">🛠️ Tech stack</h2>
 
@@ -58,8 +55,6 @@
   <sub>REST · Socket.IO · GraphQL · RabbitMQ · BullMQ · S3 · Firebase push · BLoC</sub>
 </p>
 
-<br/>
-
 <h2 align="center">📦 What I ship</h2>
 
 <table align="center">
@@ -76,8 +71,6 @@
   More of my work: <a href="https://senkop.github.io">senkop.github.io</a> · <a href="https://github.com/senkop?tab=repositories">public repositories</a></sub>
 </p>
 
-<br/>
-
 <h2 align="center">📊 GitHub stats</h2>
 
 <p align="center">
@@ -89,9 +82,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=senkop&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<br/>
+---
 
 <h3 align="center">💬 Ask me about: Flutter · Node.js · Firebase · REST · Socket.IO · GraphQL · system design</h3>
-<p align="center">⚡ Fun fact: I do love joking, and my commit messages are the proof.</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=110&section=footer" alt="" width="100%" />
+<p align="center">⚡ Fun fact: I do love joking, and my commit messages are the proof.</p>
