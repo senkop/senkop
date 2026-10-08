@@ -71,12 +71,16 @@
   More of my work: <a href="https://senkop.github.io">senkop.github.io</a> · <a href="https://github.com/senkop?tab=repositories">public repositories</a></sub>
 </p>
 
-<h2 align="center">📊 GitHub stats</h2>
+<h2 align="center">📊 By the numbers</h2>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=senkop&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=senkop&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="215"><h2>3,300+</h2><b>Commits</b><br/><sub>across team and private repos since Oct 2024</sub></td>
+    <td align="center" width="215"><h2>12</h2><b>Repositories</b><br/><sub>Flutter apps, APIs and workers</sub></td>
+    <td align="center" width="215"><h2>2</h2><b>Organizations</b><br/><sub>Bawq and FODWA</sub></td>
+    <td align="center" width="215"><h2>770+</h2><b>Contributions</b><br/><sub>private work included</sub></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=senkop&theme=tokyonight&hide_border=true" alt="GitHub streak" />
