@@ -1,85 +1,97 @@
-<h1 align="center">Hi 👋, I'm Mostafa <sub>(Senkop)</sub></h1>
-<h3 align="center">Full-stack developer · Flutter &amp; Node.js</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=210&section=header&text=Mostafa%20Khaled&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20Flutter%20%26%20Node.js&descAlignY=60&descSize=20" alt="Mostafa Khaled" width="100%" />
+
+<a href="https://github.com/senkop">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=0E75B6&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B%2C+I'm+Mostafa+(Senkop);I+build+mobile+%26+web+apps+end+to+end;Flutter+on+the+front.+Node.js+on+the+back.;GPS+tracking+%C2%B7+Dispatch+%C2%B7+Reporting" alt="Typing intro" />
+</a>
+
+<br/>
+
+<a href="https://senkop.github.io"><img src="https://img.shields.io/badge/Portfolio-senkop.github.io-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/mostafa-khaled-9636791a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/senkop/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://www.facebook.com/mostafakhaledx"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://www.instagram.com/mostafakhaledxm"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=senkop&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
+
+<br/>
+
+<h2 align="center">🚀 What I'm up to</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="260"><h3>🔭<br/>Now</h3>Building <b>GPS tracking, dispatch &amp; reporting</b> systems at <a href="https://github.com/bawq"><b>Bawq</b></a></td>
+    <td align="center" width="260"><h3>🧩<br/>Full stack</h3>Flutter apps (mobile &amp; web), REST APIs, real-time sockets, workers and notification services</td>
+    <td align="center" width="260"><h3>🌱<br/>Always</h3>Improving architecture, performance and developer experience</td>
+  </tr>
+</table>
+
+<br/>
+
+<h2 align="center">🛠️ Tech stack</h2>
+
+<table align="center">
+  <tr>
+    <th align="center" width="260">📱 Frontend &amp; Mobile</th>
+    <th align="center" width="260">⚙️ Backend &amp; Data</th>
+    <th align="center" width="260">☁️ Infra &amp; Tools</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,js,ts&perline=4" alt="Frontend" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&perline=4" alt="Backend" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker,aws,firebase,rabbitmq&perline=4" alt="Infra" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma,dotnet,cs&perline=4" alt="Design and other" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=graphql,postman&perline=4" alt="APIs" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github&perline=4" alt="Git" /></td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=senkop&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <sub>REST · Socket.IO · GraphQL · RabbitMQ · BullMQ · S3 · Firebase push · BLoC</sub>
+</p>
+
+<br/>
+
+<h2 align="center">📦 What I ship</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="195"><b>📱 Flutter apps</b><br/><sub>Mobile &amp; web clients with live maps, real-time tracking and Firebase</sub></td>
+    <td align="center" width="195"><b>🔌 APIs &amp; services</b><br/><sub>Express services on MongoDB, Redis and RabbitMQ</sub></td>
+    <td align="center" width="195"><b>⚙️ Workers</b><br/><sub>Queue-based report generation with S3-backed storage</sub></td>
+    <td align="center" width="195"><b>🔔 Notifications</b><br/><sub>Push notification service powered by Firebase</sub></td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>Most of my day-to-day code lives in the private <a href="https://github.com/bawq">bawq</a> organization.<br/>
+  More of my work: <a href="https://senkop.github.io">senkop.github.io</a> · <a href="https://github.com/senkop?tab=repositories">public repositories</a></sub>
+</p>
+
+<br/>
+
+<h2 align="center">📊 GitHub stats</h2>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=senkop&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=senkop&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <a href="https://senkop.github.io"><img src="https://img.shields.io/badge/Portfolio-senkop.github.io-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senkop&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  I build mobile and web apps end to end: Flutter clients on the front,
-  Node.js microservices, queues and cloud storage on the back.
-</p>
+<br/>
 
----
+<h3 align="center">💬 Ask me about: Flutter · Node.js · Firebase · REST · Socket.IO · GraphQL · system design</h3>
+<p align="center">⚡ Fun fact: I do love joking, and my commit messages are the proof.</p>
 
-### 🚀 What I'm up to
-
-- 🔭 Currently building **GPS tracking, dispatch and reporting** systems at [**Bawq**](https://github.com/bawq)
-- 🧩 Working across the whole stack: Flutter apps (mobile and web), REST APIs, real-time sockets, background workers and notification services
-- 🌱 Always improving architecture, performance and developer experience
-
-### 🛠️ What I work with
-
-**Frontend / Mobile**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,figma" alt="Frontend and mobile skills" />
-</p>
-
-**Backend / Data / Infra**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,rabbitmq,docker,aws,firebase,graphql" alt="Backend and infra skills" />
-</p>
-
-**Also**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,git,postman" alt="Other skills" />
-</p>
-
-**Patterns I use a lot:** REST APIs · Socket.IO real-time updates · GraphQL · message queues (RabbitMQ, BullMQ) · S3 object storage · Firebase push notifications · BLoC state management
-
-### 📦 Selected work
-
-Most of my day-to-day code lives in the private [**bawq**](https://github.com/bawq) organization. Public projects are on my [profile](https://github.com/senkop?tab=repositories), and more of my work is on my [portfolio](https://senkop.github.io).
-
-| Area | What it covers |
-| --- | --- |
-| Flutter apps | Mobile and web clients with live maps, real-time tracking and Firebase |
-| API and services | Express and Node.js services with MongoDB, Redis and RabbitMQ |
-| Workers | Queue-based report generation and S3-backed storage |
-| Notifications | Firebase-powered push notifications service |
-
-### 💬 Ask me about
-
-**Flutter · Node.js · Firebase · REST APIs · Socket.IO · GraphQL · system design**
-
-### 📫 Let's connect
-
-<p align="left">
-  <a href="https://senkop.github.io"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mostafa-khaled-9636791a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.facebook.com/mostafakhaledx"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/mostafakhaledxm"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://leetcode.com/u/senkop/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-</p>
-
-> ⚡ Fun fact: I do love joking, and my commit messages are the proof.
-
----
-
-### 📊 GitHub stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=senkop&show_icons=true&locale=en&layout=compact" alt="Most used languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=senkop&show_icons=true&locale=en" alt="GitHub stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senkop&" alt="GitHub streak" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=110&section=footer" alt="" width="100%" />
