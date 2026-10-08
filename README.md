@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mostafa <sub>(Senkop)</sub></h1>
+<h1 align="center">Hi 👋, I'm Mostafa Khaled</h1>
 
-<h3 align="center">Full-stack developer · Flutter &amp; Node.js</h3>
+<h3 align="center">aka Senkop · Full-stack developer · Flutter &amp; Node.js</h3>
 
 <p align="center">
   I build mobile and web apps end to end.<br/>
