@@ -77,14 +77,10 @@
   <tr>
     <td align="center" width="215"><h2>3,300+</h2><b>Commits</b><br/><sub>across team and private repos since Oct 2024</sub></td>
     <td align="center" width="215"><h2>12</h2><b>Repositories</b><br/><sub>Flutter apps, APIs and workers</sub></td>
-    <td align="center" width="215"><h2>2</h2><b>Organizations</b><br/><sub>Bawq and FODWA</sub></td>
-    <td align="center" width="215"><h2>770+</h2><b>Contributions</b><br/><sub>private work included</sub></td>
+    <td align="center" width="215"><h2>500+</h2><b>Active days</b><br/><sub>days with at least one commit</sub></td>
+    <td align="center" width="215"><h2>27 days</h2><b>Longest streak</b><br/><sub>Jun 6 – Jul 2, 2026</sub></td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senkop&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
 
 ---
 
