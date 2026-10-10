@@ -4,7 +4,7 @@
 
 <p align="center">
   I build mobile and web apps end to end.<br/>
-  Flutter on the front. Node.js on the back.
+  Flutter and React on the front. Node.js on the back.
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 <table align="center">
   <tr>
     <td align="center" width="260"><h3>🔭<br/>Now</h3>Building <b>GPS tracking, dispatch &amp; reporting</b> systems at <a href="https://github.com/bawq"><b>Bawq</b></a></td>
-    <td align="center" width="260"><h3>🧩<br/>Full stack</h3>Flutter apps (mobile &amp; web), REST APIs, real-time sockets, workers and notification services</td>
+    <td align="center" width="260"><h3>🧩<br/>Full stack</h3>Flutter apps (mobile &amp; web), React &amp; Next.js dashboards, REST APIs, real-time sockets, workers and notification services</td>
     <td align="center" width="260"><h3>🌱<br/>Always</h3>Improving architecture, performance and developer experience</td>
   </tr>
 </table>
@@ -40,12 +40,12 @@
     <th align="center" width="260">☁️ Infra &amp; Tools</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,js,ts&perline=4" alt="Frontend" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs&perline=4" alt="Frontend" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&perline=4" alt="Backend" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker,aws,firebase,rabbitmq&perline=4" alt="Infra" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma,dotnet,cs&perline=4" alt="Design and other" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js,ts,figma,dotnet,cs&perline=5" alt="Languages and other" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=graphql,postman&perline=4" alt="APIs" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git,github&perline=4" alt="Git" /></td>
   </tr>
@@ -96,6 +96,6 @@
 
 ---
 
-<h3 align="center">💬 Ask me about: Flutter · Node.js · Firebase · REST · Socket.IO · GraphQL · system design</h3>
+<h3 align="center">💬 Ask me about: Flutter · React · Next.js · Node.js · Firebase · REST · Socket.IO · GraphQL · system design</h3>
 
 <p align="center">⚡ Fun fact: I do love joking, and my commit messages are the proof.</p>
